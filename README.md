@@ -14,16 +14,5 @@ The app is designed to be **error-proof**, automatically handling missing engine
 - ✔ Handles unseen categories safely  
 - ✔ Clean and interactive Streamlit interface  
 
----
 
-## 📁 Project Structure
-
-BMW_SALES_ANALYSIS_/
-│
-├── app.py
-├── models/
-│ ├── best_lgbm.joblib
-│ ├── scaler.joblib
-│ └── label_encoder.joblib
-└── README.md
 
