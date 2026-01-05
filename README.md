@@ -18,3 +18,6 @@ The app is designed to be **error-proof**, automatically handling missing engine
 
 https://github.com/user-attachments/assets/6e6bf1f7-b112-458f-ace5-e1e9dfc93ad2
 
+<img width="1226" height="832" alt="Screenshot 2026-01-05 211623" src="https://github.com/user-attachments/assets/b1507acd-34f8-4f0e-aea5-bf239b3c9b58" />
+
+
